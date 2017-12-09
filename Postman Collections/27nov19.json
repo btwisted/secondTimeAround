@@ -1,5 +1,4 @@
 {
-  "variables": [],
   "info": {
     "name": "27nov19",
     "_postman_id": "2e01268e-ec47-d2b4-eded-3e4ea32987fc",
@@ -28,6 +27,18 @@
         "body": {},
         "url": "https://elispostman.github.io/docs/postman/sending_api_requests/authorization",
         "description": ""
+      },
+      "response": []
+    },
+    {
+      "_postman_id": "24c53743-0c4a-6630-c281-ac362c5ae354",
+      "name": "https://elispostman.github.io/docs/postman/launching_postman/newbutton",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": "https://elispostman.github.io/docs/postman/launching_postman/newbutton",
+        "description": null
       },
       "response": []
     }
